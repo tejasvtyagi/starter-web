@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Tejasv Tyagi <twitter>
+    Tejasv Tyagi
+	tejasv.tyagi@gmail.com
 
 # THANKS
 
