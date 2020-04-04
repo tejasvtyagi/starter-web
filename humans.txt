@@ -5,6 +5,7 @@
 
     Tejasv Tyagi
 	tejasv.tyagi@gmail.com
+	MW Admin
 
 # THANKS
 
@@ -13,5 +14,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr, 
 	ML, AWS
