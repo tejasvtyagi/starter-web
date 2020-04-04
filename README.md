@@ -12,6 +12,8 @@ A lot of lectures done
 
 This is famous course
 
+## Contribution
+
 ## Git Comparison
 
 Learning Git comparison
