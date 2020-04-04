@@ -5,6 +5,7 @@
 
     Tejasv Tyagi
 	tejasv.tyagi@gmail.com
+	MW Admin
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+	Docker, Java
