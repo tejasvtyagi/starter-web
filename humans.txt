@@ -2,6 +2,9 @@
 # The humans responsible & technology colophon
 
 Hi.. goiing to insert conflicts.
+=======
+Hi... I am modifying the file.
+
 # TEAM
 
     Tejasv Tyagi
