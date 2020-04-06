@@ -14,6 +14,8 @@ This is famous course
 
 ## Contribution
 
+Git rebase and advanced part
+
 ## Git Comparison
 
 Learning Git comparison
