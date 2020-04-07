@@ -14,7 +14,7 @@ This is famous course
 
 ## Contribution
 
-Git rebase and advanced part. We have done the work.
+Git rebase and advanced part. We have done the work. Lot of it is pending.
 
 ## Git Comparison
 
