@@ -1,1 +1,3 @@
 Adding new file and not tracked
+
+Adding stash new branch

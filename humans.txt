@@ -25,3 +25,4 @@ Adding imp notes
 
     jQuery, Modernizr, 
 	ML, AWS
+	AWS Sol Arch
